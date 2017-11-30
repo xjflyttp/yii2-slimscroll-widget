@@ -10,7 +10,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/slimScroll": "*"
+        "bower-asset/slimScroll": "~1.3.0"
     },
     "autoload": {
         "psr-4": {
